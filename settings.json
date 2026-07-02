@@ -1,13 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "thegoatsbot",
+
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "THEGOATOFMCSERVER.aternos.me",
-    "port": 16246,
+    "ip": "THEGOATSSMP.aternos.me",
+    "port": 29809,
     "version": ,
     "try-creative": true
   },
